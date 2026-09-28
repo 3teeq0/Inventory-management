@@ -1,3 +1,5 @@
 # Inventory-management
-## Libraries used:
+## Dependancies:
++ python 3.13
 + pandas
++ 
